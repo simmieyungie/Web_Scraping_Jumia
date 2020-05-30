@@ -12,10 +12,10 @@ The aim is pretty straightforward.
 - The data and time of collection is also assigned.
 - A dataframe is returned for each request
 
-#### How it works
+### How it works
 It simply collects the url search of a particular product type and fetches the desired data.
 
-#### Tool used
+### Tool used
 R programming was used for this project. The libraries used in the smooth execution of the project includes;
 - Dplyr
 - Purrr
